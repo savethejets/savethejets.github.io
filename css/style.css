@@ -1,0 +1,118 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #7ab3d3;
+}
+
+.body-white {
+    background-color: #ffffff;
+}
+
+a {
+  color: #00B7FF;
+}
+
+/* -------- FONT ----------*/
+
+.pixel-font {
+    font-family: 'Patrick Hand', cursive;
+    font-size: x-large;
+}
+
+.pixel-font-white {
+    font-family: 'Patrick Hand', cursive;
+    background: #ffffff;
+}
+
+.pixel-font-bold {
+    font-family: 'Patrick Hand', cursive;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.red {
+    color: #c12e2a;
+}
+
+.beige {
+    color: #c0a16b;
+}
+
+/*--------- LAYOUT ---------*/
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.background {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.description {
+    color: #ffffff;
+    background-color: #1a1a1a;
+    padding-top: 5%;
+    padding-bottom: 20px;
+}
+
+.margin-top {
+    margin-top: 2%;
+    margin-left: 3%;
+}
+
+.double-margin-top {
+    margin-top: 4%;
+    margin-bottom: 3%;
+    margin-left: 3%;
+}
+
+.video {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-color: #000077;
+    background-color: #4b463c;
+    background-image: url("/images/background2.png");
+    border: 4px solid;
+    background-repeat: repeat;
+}
+
+.follow {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-color: #000077;
+    background-color: #4b463c;
+    background-image: url("/images/background2.png");
+    border: 4px solid;
+    background-repeat: repeat;
+}
+
+.video p {
+    color: #c4bca8;
+}
+
+.follow p {
+    color: #c4bca8;
+}
+
+.screenshots {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #222222;
+}
+
+.footer {
+    text-align: center;
+    color: #ffffff;
+    background-color: #1a1a1a;
+    padding-top: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 1%;
+}
