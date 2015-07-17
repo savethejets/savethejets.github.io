@@ -1,7 +1,7 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: #7ab3d3;
+  background-color: #faa128;
 }
 
 .body-white {
@@ -44,6 +44,10 @@ a {
 
 .green {
     color: #5cb85c;
+}
+
+.small {
+    font-size: small;
 }
 
 /*--------- LAYOUT ---------*/
