@@ -38,6 +38,14 @@ a {
     color: #c0a16b;
 }
 
+.white {
+    color: #ffffff;
+}
+
+.green {
+    color: #5cb85c;
+}
+
 /*--------- LAYOUT ---------*/
 
 .col-centered{
