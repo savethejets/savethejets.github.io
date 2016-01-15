@@ -1,7 +1,6 @@
 body {
-  padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: #faa128;
+  background-color: #201f1f;
 }
 
 .body-white {
@@ -15,23 +14,24 @@ a {
 /* -------- FONT ----------*/
 
 .pixel-font {
-    font-family: 'Nunito', sans-serif;
-    font-size: x-large;
+
+    font-family: 'Londrina Solid', cursive;
+    font-size: large;
 }
 
 .pixel-font-white {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Londrina Sketch', cursive;
     background: #ffffff;
 }
 
 .pixel-font-bold {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Londrina Sketch', cursive;
     font-size: xx-large;
     font-weight: bold;
 }
 
 .red {
-    color: #f7e73b;
+    color: #88b272;
 }
 
 .beige {
@@ -52,6 +52,23 @@ a {
 
 /*--------- LAYOUT ---------*/
 
+.navbar-inverse {
+    background-color: #512f38;
+}
+
+.main {
+    background-image: url("/images/background.png");
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+.main-video {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 .col-centered{
     float: none;
     margin: 0 auto;
@@ -68,9 +85,8 @@ a {
 
 .description {
     color: #ffffff;
-    background-color: #1a1a1a;
-    padding-top: 5%;
-    padding-bottom: 20px;
+    background-color: #512f38;
+    padding-top: 1%;
 }
 
 .margin-top {
@@ -89,7 +105,7 @@ a {
     padding-bottom: 20px;
     border-color: #000077;
     background-color: #4b463c;
-    background-image: url("/images/background2.png");
+    background-image: url("/images/background.png");
     border: 4px solid;
     background-repeat: repeat;
 }
@@ -97,27 +113,50 @@ a {
 .follow {
     padding-top: 20px;
     padding-bottom: 20px;
+    background-color: #512f38;
 }
 
 .video p {
     color: #c4bca8;
 }
 
+.btn-twitter {
+    background-color: #ed8c45;
+}
+
+.btn-facebook {
+    background-color: #ed8c45;
+}
+
+.form-group .btn {
+    background-color: #f73d3f;
+}
+
 .follow p {
-    color: #c4bca8;
+    color: #faf3ff;
 }
 
 .screenshots {
     padding-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
-    background-color: #222222;
+    background-color: #512f38;
+}
+
+.info-body {
+    background-color: #512f38;
+}
+
+.calltoaction {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #512f38;
 }
 
 .footer {
     text-align: center;
     color: #ffffff;
-    background-color: #1a1a1a;
+    background-color: #f73d3f;
     padding-top: 1%;
     padding-left: 5%;
     padding-right: 5%;
