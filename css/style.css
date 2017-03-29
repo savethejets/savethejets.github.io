@@ -1,6 +1,6 @@
 body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: #201f1f;
+  background-color: #000000;
 }
 
 .body-white {
@@ -123,7 +123,7 @@ a {
 }
 
 .form-group .btn {
-    background-color: #250f0c;
+    background-color: #000000;
 }
 
 .follow p {
@@ -138,19 +138,19 @@ a {
 }
 
 .info-body {
-    background-color: #0f070a;
+    background-color: #000000;
 }
 
 .calltoaction {
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: #0f070a;
+    background-color: #000000;
 }
 
 .footer {
     text-align: center;
     color: #ffffff;
-    background-color: #0f070a;
+    background-color: #250f0c;
     padding-top: 1%;
     padding-left: 5%;
     padding-right: 5%;
