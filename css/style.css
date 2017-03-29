@@ -53,12 +53,12 @@ a {
 /*--------- LAYOUT ---------*/
 
 .navbar-inverse {
-    background-color: #512f38;
+    background-color: #000000;
 }
 
 .main {
-    background-image: url("/images/background.png");
-    background-size: cover;
+    /*background-image: url("/images/background.png");*/
+    /*background-size: cover;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -105,7 +105,7 @@ a {
     padding-bottom: 20px;
     border-color: #000077;
     background-color: #4b463c;
-    background-image: url("/images/background.png");
+    /*background-image: url("/images/background.png");*/
     border: 4px solid;
     background-repeat: repeat;
 }
@@ -129,7 +129,7 @@ a {
 }
 
 .form-group .btn {
-    background-color: #f73d3f;
+    background-color: #250f0c;
 }
 
 .follow p {
@@ -140,7 +140,7 @@ a {
     padding-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
-    background-color: #512f38;
+    background-color: #000000;
 }
 
 .info-body {
