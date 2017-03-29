@@ -57,11 +57,7 @@ a {
 }
 
 .main {
-    /*background-image: url("/images/background.png");*/
-    /*background-size: cover;*/
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+
 }
 
 .main-video {
@@ -85,7 +81,7 @@ a {
 
 .description {
     color: #ffffff;
-    background-color: #512f38;
+    background-color: #000000;
     padding-top: 1%;
 }
 
@@ -103,9 +99,7 @@ a {
 .video {
     padding-top: 20px;
     padding-bottom: 20px;
-    border-color: #000077;
-    background-color: #4b463c;
-    /*background-image: url("/images/background.png");*/
+    background-color: #000000;
     border: 4px solid;
     background-repeat: repeat;
 }
@@ -113,7 +107,7 @@ a {
 .follow {
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: #512f38;
+    background-color: #0f070a;
 }
 
 .video p {
@@ -144,19 +138,19 @@ a {
 }
 
 .info-body {
-    background-color: #512f38;
+    background-color: #0f070a;
 }
 
 .calltoaction {
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: #512f38;
+    background-color: #0f070a;
 }
 
 .footer {
     text-align: center;
     color: #ffffff;
-    background-color: #f73d3f;
+    background-color: #0f070a;
     padding-top: 1%;
     padding-left: 5%;
     padding-right: 5%;
