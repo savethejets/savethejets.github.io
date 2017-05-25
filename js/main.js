@@ -1,8 +1,3 @@
-Flatdoc.run({
-    fetcher: Flatdoc.file('index.md')
-});
-
-
 $(document).on('flatdoc:ready', function() {
     fixHeaders()
     fixIDs()
